@@ -7,3 +7,5 @@ script 6-multiple_permissions adds rwx to user and group and only r to others
 the 7-everybody script gives execution permission to everybody
 the 9-john-doe script sets the permissionsof the file
 script 10-mirror_permissions sets mode to mirror another
+the 11-directories_permissions script adds execute permission for subdirectories in the current directory
+12-directory_permissions script makes the my_dir directory and executes mode 751
