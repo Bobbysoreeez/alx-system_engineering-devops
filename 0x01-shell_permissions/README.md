@@ -6,3 +6,4 @@ the 4-empty filee creates an empty file called hello
 script 6-multiple_permissions adds rwx to user and group and only r to others
 the 7-everybody script gives execution permission to everybody
 the 9-john-doe script sets the permissionsof the file
+script 10-mirror_permissions sets mode to mirror another
