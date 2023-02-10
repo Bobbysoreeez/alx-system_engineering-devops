@@ -9,3 +9,4 @@ the 9-john-doe script sets the permissionsof the file
 script 10-mirror_permissions sets mode to mirror another
 the 11-directories_permissions script adds execute permission for subdirectories in the current directory
 12-directory_permissions script makes the my_dir directory and executes mode 751
+the 13-change_group script is to change the owner of the hello file to school i.e group owner
